@@ -1,3 +1,3 @@
 # lib
-jar files
-export CLASSPATH=$CLASSPATH:/usr/share/java/mysql.jar
+#jar files 
+#export CLASSPATH=$CLASSPATH:/usr/share/java/mysql.jar
